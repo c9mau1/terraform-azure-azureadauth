@@ -1,4 +1,4 @@
 locals {
   region            = "japaneast"
-  res_group         = "test-rg"
+  res_group         = "test-east-rg"
 }
